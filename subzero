@@ -1,0 +1,3 @@
+#!/bin/bash
+source /home/kali/Desktop/projects/subzero_main/venv/bin/activate
+python3 /home/kali/Desktop/projects/subzero_main/subzero.py "$@"
